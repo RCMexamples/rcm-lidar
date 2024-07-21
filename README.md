@@ -2,7 +2,7 @@
 https://github.com/rcmgames/RCMv2
 ### open in VSCode (using [PlatformIO](https://platformio.org/platformio-ide)), or use the Arduino IDE.
 
-### _write a description of what your robot does here:_ The main branch is just template code that doesn't control anything.
+### Demonstration of RCMv2's ROS mode. This program creates a very cheap ROS-connected 360 degree scanning lidar.
 
 ## find more information about the Robot Control Module hardware here: [https://github.com/rcmgames](https://github.com/rcmgames?view_as=public)
 
