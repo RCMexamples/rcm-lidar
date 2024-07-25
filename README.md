@@ -4,6 +4,8 @@ https://github.com/rcmgames/RCMv2
 
 ### Demonstration of RCMv2's ROS mode. This program creates a very cheap ROS-connected 360 degree scanning lidar.
 
+http://docs.ros.org/en/melodic/api/sensor_msgs/html/msg/LaserScan.html
+
 ## find more information about the Robot Control Module hardware here: [https://github.com/rcmgames](https://github.com/rcmgames?view_as=public)
 
 ### Install Driver Station App:
